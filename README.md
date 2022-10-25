@@ -9,7 +9,7 @@ I have had a lifelong interest in technology and have spent several years writin
 ♘ Trying to increase my chess ELO rating  
 🏃‍♂️ Sub-8 minute mile time  
 
-##Reach Out To Me
+## Reach Out To Me
 
 [<img src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" height="40em" align="center" alt="Follow Brian on LinkedIn" title="Follow Brian on LinkedIn"/>](https://www.linkedin.com/in/bpmurray/)
 <!--

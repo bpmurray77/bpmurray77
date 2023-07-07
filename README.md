@@ -7,7 +7,6 @@ I have had a lifelong interest in technology and have spent several years writin
 🤖 Tinkering with various GPT models  
 📖 Improving my JavaScript and Python  
 ♘ Trying to increase my chess ELO rating  
-🏃‍♂️ Sub-8 minute mile time  
 
 ## Reach Out To Me
 
